@@ -6,7 +6,7 @@ with open("README.md", "r+") as fh:
 setup(
         name='S17',
         package_dir={'': 'src'},
-        version='1.0.3',
+        version='1.0.4',
         long_description=long_description,
         long_description_content_type="text/markdown",
         description='The S17 framework',
