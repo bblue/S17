@@ -10,7 +10,7 @@ setup(
         long_description=long_description,
         long_description_content_type="text/markdown",
         description='The S17 framework',
-        url='git@github.com:bblue/bblue-SDK.git',
+        url='https://github.com/bblue/bblue-SDK',
         author='Aleksander Lanes',
         author_email='aleksander.lanes@gmail.com',
         license='unlicensed',
