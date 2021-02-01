@@ -26,6 +26,6 @@ setup(
             'Topic :: Software Development :: Libraries :: Python Modules',
         ],
         install_requires=[
-            'bblue-SDK @ git+ssh://git@github.com/bblue/bblue-SDK.git',
+            'bblue-SDK@git+ssh://git@github.com/bblue/bblue-SDK.git',
         ],
 )
